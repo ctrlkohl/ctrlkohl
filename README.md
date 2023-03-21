@@ -13,7 +13,8 @@ I have contributed to small projects like 15Sports Discord bot or really big pro
 <a href="https://github.com/Trail-Blaze/Dynamite-Core-V2">Dynamite-Core V2</a> - A rewrite of the Fortnite Backend Reimplementation (dynamite-core)<br>
 fortnite_server - A Fortnite Gameserver (private repo)<br>
 <a href="https://github.com/Aurora-FN/Launcher">AuroraFN V3 Launcher</a> - An open source Fortnite Launcher for older versions of Fortnite<br>
-<a href="https://fosscord.com/">Fosscord</a> - A Discord Server Reimplementation in NodeJS (I only helped find bugs & gave recommendations on how to fix them!)
+<a href="https://fosscord.com/">Fosscord</a> - A Discord Server Reimplementation in NodeJS (I only helped find bugs & gave recommendations on how to fix them!)<br>
+<a href="https://github.com/ctrlkohl/Imposter">Imposter</a> - A Multi purpose Discord bot made in Discord.js v12
 
 <!--
 **ctrlkohl/ctrlkohl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
