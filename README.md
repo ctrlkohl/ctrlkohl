@@ -1,5 +1,5 @@
 ### Introduction
-Hello! My name is ctrlkohl (John Mcdowall)! I have a github page mainly to contribute to projects and keep my projects here!<br>
+Hello! My name is ctrlkohl (John Shier)! I have a github page mainly to contribute to projects and keep my projects here!<br>
 Basic Info about me:<br>
 Age: 15 (16 soon!)<br>
 Height: 6ft<br>
